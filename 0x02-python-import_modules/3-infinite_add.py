@@ -7,4 +7,4 @@ if __name__ == "__main__":
     for i in range(1, ac + 1):
         sum += int(argv[i])
 
-    print("{:d}".format(sum))Z
+    print("{:d}".format(sum))
